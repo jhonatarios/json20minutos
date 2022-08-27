@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Jhonata",
+        "idade": 22,
+        "esta_trabalhando": false,
+        "detalhes_profissão": {
+            "profissão": "Desenvolvedor web",
+            "empresa": "A procura de uma oportunidade"
+        },
+        "hobbies": ["Carros", "Academia", "Programação", "Animes"]
+    }
+]
